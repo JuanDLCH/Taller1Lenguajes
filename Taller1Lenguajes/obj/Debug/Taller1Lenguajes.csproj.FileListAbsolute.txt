@@ -1,0 +1,18 @@
+c:\users\user\documents\visual studio 2015\Projects\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.exe
+c:\users\user\documents\visual studio 2015\Projects\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.pdb
+c:\users\user\documents\visual studio 2015\Projects\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.exe
+c:\users\user\documents\visual studio 2015\Projects\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.pdb
+C:\Users\s103e26\Desktop\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.exe.config
+C:\Users\s103e26\Desktop\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.exe
+C:\Users\s103e26\Desktop\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.pdb
+C:\Users\s103e26\Desktop\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.exe
+C:\Users\s103e26\Desktop\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.pdb
+C:\Users\s103e26\Desktop\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.exe.config
+C:\Users\user\Desktop\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.exe
+C:\Users\user\Desktop\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.pdb
+C:\Users\user\Desktop\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.exe
+C:\Users\user\Desktop\Taller1Lenguajes\Taller1Lenguajes\bin\Debug\Taller1Lenguajes.pdb
+C:\Users\user\Desktop\Taller1Lenguajes\Taller1Lenguajes\obj\Debug\Taller1Lenguajes.csprojResolveAssemblyReference.cache
